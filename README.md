@@ -31,7 +31,7 @@ PS3: 請手動下載新版的 chromedrive, 建議在 source code 下建立一個
 # Introduce the implement (實作方法)
 https://stackoverflow.max-everyday.com/2018/03/selenium-chrome-webdriver/
 
-# Execute suggestion (搶票建議)
+# Execute suggestion (預約登記建議)
 please run this source code with high performance hardware computer and high speed + stable network.
 
 掛號或預約登記的「限量」是殘酷的，建議不要用破舊的電腦或連線不穩的手機網路來掛號，因為只要比別人慢個 0.1 秒，名額可能就沒了。為了要搶到限量的名額真心建議去網咖或找一個網路連線穩定且快的地方並使用硬體不差的電腦來搶票。
