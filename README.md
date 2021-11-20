@@ -1,6 +1,8 @@
 # 榮總疫苗殘劑預約登記機器人
 help you quickly make your registration online
 
+由於，目前疫苗沒有需要搶殘劑的需求，這個專案已暫停更新，留下原始碼給大家參考，雖然寫的超爛的，但聊勝於無...。
+
 # Download (應用程式下載)
 https://github.com/max32002/vaccine-residue-bot/releases
 
